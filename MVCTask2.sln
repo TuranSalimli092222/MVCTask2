@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTask2", "MVCTask2\MVCTask2.csproj", "{6FBC9B75-7D3D-4D2E-A4E1-5876B68C915F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBC9B75-7D3D-4D2E-A4E1-5876B68C915F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBC9B75-7D3D-4D2E-A4E1-5876B68C915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBC9B75-7D3D-4D2E-A4E1-5876B68C915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBC9B75-7D3D-4D2E-A4E1-5876B68C915F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A803FA8E-A70D-43A2-B0A9-DA1AA0CB2E20}
+	EndGlobalSection
+EndGlobal
